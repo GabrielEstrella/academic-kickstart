@@ -66,7 +66,8 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=SIen1nwAAAAJ&hl=en&oi=ao"
+#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"  
 
 [[social]]
   icon = "github"
