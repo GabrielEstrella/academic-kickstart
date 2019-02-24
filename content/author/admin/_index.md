@@ -46,9 +46,6 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
 <<<<<<< HEAD
   course = "B.A. in Psychology, with Distinction and High Honors "
-=======
-  course = "B.A. in Psychology, with Distinction and High Honors"
->>>>>>> 99a38f716c8868cc7e3db31477367fbfeebecb31
   institution = "University of California, Santa Barbara"
   year = 2009
 
