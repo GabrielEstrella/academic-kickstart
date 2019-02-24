@@ -34,17 +34,17 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Ph.D. in Education"
+  course = "Ph.D. in Education, Expected: June"
   institution = "University of California, Irvine"
   year = 2019
 
 [[education.courses]]
-  course = "MA in Education"
+  course = "M.A. in Education"
   institution = "University of California, Irvine"
   year = 2016
 
 [[education.courses]]
-  course = "BA in Psychology with Distinction, High Honors"
+  course = "B.A. in Psychology with Distinction, High Honors"
   institution = "University of California, Santa Barbara"
   year = 2009
 
