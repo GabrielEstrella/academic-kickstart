@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "Ph.D. in Education"
   institution = "University of California, Irvine"
-  year =  Expecting June 2019
+  year = 2019
 
 [[education.courses]]
   course = "MA in Education"
