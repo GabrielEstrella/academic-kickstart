@@ -85,6 +85,6 @@ user_groups = ["Researchers", "Visitors"]
 
 Gabriel Estrella is a Ph.D. candidate specializing in Learning, Cognition, and Development at the University of California, Irvine. He conducts applied research focused on improving the academic achievement and motivational outcomes of K-12 and post-secondary students in STEM, especially those from diverse and underserved backgrounds. 
 
-His desire to bridge the gap between empirical research and educational practice motivated his collaboration on multiple interdisciplanry projects, such as evaluating the validity and reliability of standardized assessments for English Learners; identifying institutional factors affecting the enrollment, performance, and graduation rates of undergraduates in STEM majors; and conducting meta-analytic reviews to examine the impact of various instructional techniques on student learning outcomes.
+His desire to bridge the gap between empirical research and educational practice motivated his collaboration on multiple interdisciplanry projects, such as evaluating the validity and reliability of standardized assessments for English Language Learners; identifying institutional and institutional factors affecting the enrollment, performance, and retention rates of undergraduates in STEM majors; and conducting meta-analytic reviews to examine the impact of various instructional techniques on student learning outcomes.
 
 
