@@ -87,6 +87,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Gabriel Estrella is a Ph.D. candidate specilizaing in Cognition, Learning, and Development at the University of California, Irvine. He conducts applied research focused on improving the academic achievement and motivational outcomes of all students in science, especially those from diverse and underserved backgrounds. His desire to bridge the gap between empirical research and educational practice interdisciplanry projects, from evaluating the validity of performance assessments for English Learners, to identify institutional factors affecting the enrollment, performance, and graduation rates of undergraduates in STEM majors, and conducting meta-analytic reviews to estimate the impact of various instructional techniques on student learning outcomes.
+Gabriel Estrella is a Ph.D. candidate specilizaing in Cognition, Learning, and Development at the University of California, Irvine. He conducts applied research focused on improving the academic achievement and motivational outcomes of all students in science, especially those from diverse and underserved backgrounds. 
 
-New line here. 
+His desire to bridge the gap between empirical research and educational practice interdisciplanry projects, from evaluating the validity of performance assessments for English Learners, to identify institutional factors affecting the enrollment, performance, and graduation rates of undergraduates in STEM majors, and conducting meta-analytic reviews to estimate the impact of various instructional techniques on student learning outcomes.
+
+
