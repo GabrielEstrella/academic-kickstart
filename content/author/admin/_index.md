@@ -34,17 +34,17 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Doctor of Philosophy in Education"
+  course = "Ph.D. in Education"
   institution = "University of California, Irvine"
-  year = 2019
+  year = Expected: June 2019
 
 [[education.courses]]
-  course = "Master of Arts in Education"
+  course = "MA in Education"
   institution = "University of California, Irvine"
   year = 2016
 
 [[education.courses]]
-  course = "Bachelor of Arts in Psychology (Distinction, High Honors)"
+  course = "BA in Psychology with Distinction, High Honors"
   institution = "University of California, Santa Barbara"
   year = 2009
 
@@ -56,7 +56,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:gabriel.estrella.ucsb@gmail.com".
 
 #[[social]]
 #  icon = "twitter"
