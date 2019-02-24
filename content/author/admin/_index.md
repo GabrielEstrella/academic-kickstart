@@ -44,7 +44,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2009
 
 [[education.courses]]
-  course = "Bachelor of Arts (B.A.) in Psychology with Distinction, High Honors"
+  course = "Bachelor of Arts (B.A.) in Psychology"
   institution = "University of California, Santa Barbara"
   year = 2009
 
@@ -66,7 +66,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=SIen1nwAAAAJ&hl=en&oi=ao"
+  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
