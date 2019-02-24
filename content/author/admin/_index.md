@@ -34,19 +34,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Education"
-  institution = "University of California,"
-  year = 2012
+  course = "Doctor of Philosophy (Ph.D.) in Education"
+  institution = "University of California,Irvine"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "University of California,"
+  course = "Master of Arts (M.A.) in Education"
+  institution = "University of California, Irvine"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor of Arts (B.A.) in Psychology with Distinction, High Honors"
+  institution = "University of California, Santa Barbara"
+  year = 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
