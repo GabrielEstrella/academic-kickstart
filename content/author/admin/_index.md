@@ -34,7 +34,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Ph.D. in Education, Expected: June"
+  course = "Ph.D. in Education, expected: June"
   institution = "University of California, Irvine"
   year = 2019
 
