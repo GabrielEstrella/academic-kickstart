@@ -44,7 +44,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2016
 
 [[education.courses]]
-  course = "B.A. in Psychology with Distinction, High Honors"
+  course = "B.A. in Psychology (Distinction, High Honors) "
   institution = "University of California, Santa Barbara"
   year = 2009
 
