@@ -44,7 +44,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2016
 
 [[education.courses]]
-  course = "B.A. in Psychology (Distinction, High Honors) "
+  course = "B.A. in Psychology, Distinction, High Honors "
   institution = "University of California, Santa Barbara"
   year = 2009
 
@@ -83,6 +83,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gabriel Estrella is a Ph.D. candidate specilizaing in Cognition, Learning, and Development at the University of California, Irvine. He conducts applied research focused on improving the academic achievement and motivational outcomes of all students in science, especially those from diverse and underserved backgrounds. His desire to bridge the gap between empirical research and educational practice interdisciplanry projects, from evaluating the validity of performance assessments for English Learners, to identify institutional factors affecting the enrollment, performance, and graduation rates of undergraduates in STEM majors, and conducting meta-analytic reviews to estimate the impact of various instructional techniques on student learning outcomes.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
