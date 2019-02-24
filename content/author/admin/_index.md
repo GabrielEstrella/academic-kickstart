@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate"
+role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -34,17 +34,17 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Doctor of Philosophy (Ph.D.) in Education"
+  course = "Doctor of Philosophy in Education"
   institution = "University of California, Irvine"
   year = 2019
 
 [[education.courses]]
-  course = "Master of Arts (M.A.) in Education"
+  course = "Master of Arts in Education"
   institution = "University of California, Irvine"
-  year = 2009
+  year = 2016
 
 [[education.courses]]
-  course = "Bachelor of Arts (B.A.) in Psychology"
+  course = "Bachelor of Arts in Psychology (Distinction, High Honors)"
   institution = "University of California, Santa Barbara"
   year = 2009
 
@@ -58,10 +58,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+#[[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
   icon = "google-scholar"
@@ -69,10 +69,10 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://scholar.google.com/citations?user=SIen1nwAAAAJ&hl=en&oi=ao"
 #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"  
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+#[[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
