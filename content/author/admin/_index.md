@@ -1,6 +1,6 @@
 +++
 # Display name
-name = " Gabe"
+name = "Gabe"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -13,7 +13,7 @@ role = "PhD Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of California, Irvine", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include ...."
@@ -35,7 +35,7 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "Doctor of Philosophy (Ph.D.) in Education"
-  institution = "University of California,Irvine"
+  institution = "University of California, Irvine"
   year = 2019
 
 [[education.courses]]
